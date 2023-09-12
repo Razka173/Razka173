@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Razka173
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently interest on javascript environmeent
 - 💞️ I’m looking to collaborate on Laravel project
 - 📫 How to reach me @donatseres.id (Instagram)
 
